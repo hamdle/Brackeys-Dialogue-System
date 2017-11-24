@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 05b53cff0a922ef48ae953c7a5394bcf
+timeCreated: 1511551259
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BitBold
+  fontNames:
+  - BitBold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
